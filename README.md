@@ -9,14 +9,14 @@
    <p>
    <table>
     <tr>
-     <th>One</th>
-     <th>Two</th>
-     <th>Three</th>
+      <a href="#FAVOURITE FOODS"><th>One</th></a>
+      <a href="#ACHIEVEMENTS"><th>Two</th></a>
+      <a href="#MORE ABOUT ME"><th>Three</th></a>
     </tr>
    </table>
    </p>
   
-    <h2>FAVOURITE FOODS</h2>
+    <h2> <a name="FAVOURITE FOODS"></a>FAVOURITE FOODS</h2>
   <ul>
     <li>Pasta</li>
     <li>Pizza</li>
@@ -24,12 +24,12 @@
     <li>Tarte Tatin</li>
   </ul>
     <p>
-    <h2>ACHIEVEMENTS</h2>
+   <h2> <a name="ACHIEVEMENTS"></a>ACHIEVEMENTS</h2>
     <p>Progress in this course <progress max="100" value="100"></p>
     <p>Progress in life goals <progress max="100" value="35"></p>
     </p>
     <p>
-    <h2>MORE ABOUT ME</h2>
+   <h2> <a name="MORE ABOUT ME></a>MORE ABOUT ME</h2>
     </p>
     <p>
     <details>
