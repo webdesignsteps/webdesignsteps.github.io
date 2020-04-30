@@ -21,7 +21,7 @@
     <li>Pasta</li>
     <li>Pizza</li>
     <li>Soups</li>
-    <li>Tart Tatin</li>
+    <li>Tarte Tatin</li>
   </ul>
     <p>
     <h2>ACHIEVEMENTS</h2>
