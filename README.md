@@ -29,7 +29,7 @@
     <p>Progress in life goals <progress max="100" value="35"></p>
     </p>
     <p>
-   <h2> <a name="MORE ABOUT ME></a>MORE ABOUT ME</h2>
+   <h2> <a name="MORE ABOUT ME"></a>MORE ABOUT ME</h2>
     </p>
     <p>
     <details>
