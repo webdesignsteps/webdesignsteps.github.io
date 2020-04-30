@@ -34,7 +34,7 @@
     <p>
     <details>
     <summary>My Childhood</summary>
-    <p>I was born in Moscow in 1990. My childhood was happy. </p>
+      <p>I was born in Moscow in 1990. My childhood was happy. </p></details>
     <footer>
       This page was created by Sofia Nikiforova & Colleen van Lent. To learn more about web design, visit <a href="https://intro-webdesign.com">Intro to Web Design</a>
     </footer> 
