@@ -9,9 +9,9 @@
    <p>
    <table>
     <tr>
-      <a href="#FAVOURITE FOODS"><th>One</th></a>
-      <a href="#ACHIEVEMENTS"><th>Two</th></a>
-      <a href="#MORE ABOUT ME"><th>Three</th></a>
+      <th><a href="#FAVOURITE FOODS"></a>One</th>
+      <th><a href="#ACHIEVEMENTS"></a>Two</th>
+      <th><a href="#MORE ABOUT ME"></a>Three</th>
     </tr>
    </table>
    </p>
