@@ -38,6 +38,6 @@
     <p>
     <footer>
       This page was created by Sofia Nikiforova & Colleen van Lent. To learn more about web design, visit <a href="https://intro-webdesign.com">Intro to Web Design</a>
-      </p>
+ 
     </footer> 
 
